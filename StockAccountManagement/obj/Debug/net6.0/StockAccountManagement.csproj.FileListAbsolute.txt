@@ -1,0 +1,15 @@
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.exe
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.deps.json
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.runtimeconfig.json
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.dll
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\bin\Debug\net6.0\StockAccountManagement.pdb
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.AssemblyReference.cache
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.AssemblyInfoInputs.cache
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.AssemblyInfo.cs
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.csproj.CoreCompileInputs.cache
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.dll
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\refint\StockAccountManagement.dll
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.pdb
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\StockAccountManagement.genruntimeconfig.cache
+C:\Users\5570\Desktop\CFP_DOTNET\StockAccountManagement\StockAccountManagement\obj\Debug\net6.0\ref\StockAccountManagement.dll
